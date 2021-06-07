@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+	font-style: normal;
+	font-family: "MSゴシック";
+}
+
+strong {
+	color: Green;
+}
+
+h3 {
+	color: Green;
+
+	text-align: center;
+	background-color: gray;
+}
